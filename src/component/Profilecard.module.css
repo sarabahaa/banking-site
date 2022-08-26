@@ -1,0 +1,10 @@
+
+
+.profile-card-container{
+    display:flex ;
+    flex-direction: column;
+    align-items: center;
+    margin: 3%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
